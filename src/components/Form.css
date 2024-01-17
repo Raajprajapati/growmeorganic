@@ -1,0 +1,31 @@
+ form {
+   max-width: 400px;
+   margin: 0 auto;
+ }
+
+
+ .label {
+   display: block;
+   margin: 10px 0;
+ }
+
+
+ .inp {
+   width: 100%;
+   padding: 8px;
+   
+ }
+
+
+ .btn {
+   background-color: #4CAF50;
+   color: white;
+   padding: 10px 15px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+ }
+
+ .login-warning{
+  color: red;
+ }

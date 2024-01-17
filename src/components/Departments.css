@@ -1,0 +1,19 @@
+
+.department-menu{
+    background-color: #d0d0d0;
+    width: fit-content;
+}
+
+.department{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    background-color: #ffffff;
+    margin: 5px 20px;
+    width: 400px;
+    padding: 5px;
+}
+
+.subdepartment{
+    border-bottom: 1px solid grey;
+}
